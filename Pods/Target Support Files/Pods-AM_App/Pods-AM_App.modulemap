@@ -1,0 +1,6 @@
+framework module Pods_AM_App {
+  umbrella header "Pods-AM_App-umbrella.h"
+
+  export *
+  module * { export * }
+}
